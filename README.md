@@ -1,5 +1,5 @@
-#ux/ui design school
-##git 학습
+# ux/ui design school
+## git 학습
 -git status
 -git add
 -git commit
